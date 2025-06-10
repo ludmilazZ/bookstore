@@ -1,0 +1,2 @@
+2025-06-09 21:52:24,540 - __main__ - INFO - Starting the application in debug mode
+2025-06-09 21:52:24,730 - asyncio - DEBUG - Using selector: KqueueSelector
